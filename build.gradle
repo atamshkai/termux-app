@@ -14,6 +14,9 @@ allprojects {
         mavenCentral()
         maven { url "https://jitpack.io" }
     }
+dependencies {
+	implementation 'com.github.termux.termux-app:terminal-emulator:master-11d8e4ff8f-1'
+    }
 }
 
 task clean(type: Delete) {
