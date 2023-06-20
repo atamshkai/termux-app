@@ -4,10 +4,10 @@
 </p>
 <div align="center">
   <a href="https://github.com/HardcodedCat/termux-monet/actions/workflows/debug_build.yml?query=branch%3Amaster">
-    <img src="https://img.shields.io/github/actions/workflow/status/HardcodedCat/termux-monet/debug_build.yml?branch=master&label=Build&logo=gradle"/>
+    <img src="https://github.com/HardcodedCat/termux-monet/blob/master/art/logo_dark.png#gh-dark-mode-only"/>
   </a>
   <a href="https://github.com/HardcodedCat/termux-monet/actions/workflows/run_tests.yml?query=branch%3Amaster">
-    <img src="https://img.shields.io/github/actions/workflow/status/HardcodedCat/termux-monet/run_tests.yml?branch=master&label=Test&logo=gradle"/>
+    <img src="https://github.com/HardcodedCat/termux-monet/blob/master/art/screenshot_dark.png?raw=true"/>
   </a>
   <a href="https://hosted.weblate.org/engage/termux-monet/">
     <img src="https://hosted.weblate.org/widgets/termux-monet/-/svg-badge.svg" alt="Translation status" />
