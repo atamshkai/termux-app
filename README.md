@@ -1,5 +1,5 @@
 # Termux application
-[![](https://jitpack.io/v/termux/termux-app.svg)](https://jitpack.io/#termux/termux-app)
+[![Build](https://github.com/atamshkai/termux-app/actions/workflows/debug_build.yml/badge.svg)](https://github.com/atamshkai/termux-app/actions/workflows/debug_build.yml)
 [![Build status](https://github.com/termux/termux-app/workflows/Build/badge.svg)](https://github.com/termux/termux-app/actions)
 [![Testing status](https://github.com/termux/termux-app/workflows/Unit%20tests/badge.svg)](https://github.com/termux/termux-app/actions)
 [![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
