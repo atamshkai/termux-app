@@ -1,16 +1,16 @@
 <p align="center">
   <img src="https://github.com/HardcodedCat/termux-monet/blob/master/art/logo_dark.png#gh-dark-mode-only">
-  <img src="[/art/logo_light.png#gh-light-mode-only](https://hosted.weblate.org/widgets/termux-monet/-/svg-badge.svg)">
+  <img src="https://hosted.weblate.org/widgets/termux-monet/-/svg-badge.svg">
 </p>
 <div align="center">
   <a href="https://github.com/HardcodedCat/termux-monet/actions/workflows/debug_build.yml?query=branch%3Amaster">
-    <img src="https://github.com/HardcodedCat/termux-monet/blob/master/art/logo_dark.png#gh-dark-mode-only"/>
+    <img src=""/>
   </a>
   <a href="https://github.com/HardcodedCat/termux-monet/actions/workflows/run_tests.yml?query=branch%3Amaster">
     <img src="https://github.com/HardcodedCat/termux-monet/blob/master/art/screenshot_dark.png?raw=true"/>
   </a>
   <a href="https://hosted.weblate.org/engage/termux-monet/">
-    <img src="https://hosted.weblate.org/widgets/termux-monet/-/svg-badge.svg" alt="Translation status" />
+    <img src="" alt="Translation status" />
   </a>
 </div>
 <br />
