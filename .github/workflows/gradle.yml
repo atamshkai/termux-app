@@ -32,3 +32,22 @@ jobs:
       uses: gradle/gradle-build-action@67421db6bd0bf253fb4bd25b31ebb98943c375e1
       with:
         arguments: build
+name: "Validate Gradle Wrapper"
+
+on:
+  push:
+    branches:
+      - master
+      - android-10
+  pull_request:
+    branches:
+      - master
+      - android-10
+
+jobs:
+  validation:
+    name: "Validation"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gradle/wrapper-validation-action@v1
