@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[/art/logo_dark.png#gh-dark-mode-only](https://github.com/HardcodedCat/termux-monet/blob/master/art/logo_dark.png#gh-dark-mode-only)">
+  <img src="https://github.com/HardcodedCat/termux-monet/blob/master/art/logo_dark.png#gh-dark-mode-only">
   <img src="[/art/logo_light.png#gh-light-mode-only](https://hosted.weblate.org/widgets/termux-monet/-/svg-badge.svg)">
 </p>
 <div align="center">
