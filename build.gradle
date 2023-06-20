@@ -16,6 +16,11 @@ allprojects {
     }
 }
 
+dependencies {
+	        implementation 'com.github.termux.termux-app:terminal-emulator:v0.118.0'
+	}
+}
+
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
