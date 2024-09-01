@@ -50,11 +50,11 @@ The core [Termux](https://github.com/termux/termux-app) app comes with the follo
 
 ## DOWNLOADS
 
-[TERMUX](https://github.com/termux/termux-app/releases/tag/v0.118.1) 
+- [Termux](https://github.com/termux/termux-app/releases/tag/v0.118.1) 
 
-[Termux-x11](https://github.com/termux/termux-x11/releases/tag/nightly) 
+- [Termux-x11](https://github.com/termux/termux-x11/releases/tag/nightly) 
 
-[Termux-Plugins](https://github.com/termux/termux-app?tab=readme-ov-file#termux-app-and-plugins) 
+- [Termux-Plugins](https://github.com/termux/termux-app?tab=readme-ov-file#termux-app-and-plugins) 
 
 ## Installation
 
